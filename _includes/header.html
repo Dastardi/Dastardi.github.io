@@ -66,6 +66,7 @@
             {% if include.type == "page" %}
               <hr class="small">
               <span class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</span>
+              <a href="your_resume_url_here.pdf" target="_blank" class="resume-link">Resume</a>
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
             {% endif %}
@@ -93,10 +94,6 @@
   {% for file in page.header-extra %}
     {% include {{ file }} %}
   {% endfor %}
-{% endif %}
-
-{% if include.type == "page" %}
-  <a href="your_resume_url_here.pdf" target="_blank">Resume</a>
 {% endif %}
 
 </header>
