@@ -1,19 +1,18 @@
 ---
 layout: page
 title: About Me
-subtitle: Let's get you up to speed
+subtitle: All the detail you're looking for
 ---
 
-My name is Luke Currier. Nice to meet you!
-
-### Some quick facts: 
-- I'm a computer science and philosophy major at Northeastern
-- I'm interested in data science, AI, climate and bio tech, and business
-- I've co-founded two small companies, worked at a venture capital firm, and moderate an AI learning resource
-- I've traveled to four continents and 20 countries
-
-### Disciplines and skills:
-- 
+### Who am I?
+I'm a 20-year old computer science and philosophy student at Northeastern university. When I'm not studying or working I write music, play frisbee, and read just about anything I can get my hands on. I love to travel, and take every opportunity I get to go somewhere new!
 
 
+### What do I do?
+My academic focus is in advanced logic, game theory, and machine learning. I'm experienced with Python and Java, and know how to effectively use frameworks such as PyTorch for AI applications. I have hands-on experience writing technical reports, business briefings, and research papers. 
 
+Outside of school I have multiple years of experience in early-stage venture capital, and I'm an experienced project manager and people wrangler. I regularly attend hackathons and business conventions such as OutsideLLMs in San Francisco and Harvard Business School's annual VC/PE conference. 
+
+I also have experience programming in Unity, making and editing music with Logic Pro, and working as a prompt engineer with LearnPrompting.org. I love to learn, and find that expanding my tech toolbox is always worthwhile. 
+
+### 
