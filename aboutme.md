@@ -5,7 +5,7 @@ subtitle: All the detail you're looking for
 ---
 
 ### Who am I?
-I'm a 20-year old computer science and philosophy student at Northeastern university. When I'm not studying or working I write music, play frisbee, and read just about anything I can get my hands on. I love to travel, and take every opportunity I get to go somewhere new!
+I'm a 20-year old computer science and philosophy student at Northeastern University. When I'm not studying or working I write music, play frisbee, and read just about anything I can get my hands on. I love to travel, and take every opportunity I can to go somewhere new!
 
 
 ### What do I do?
