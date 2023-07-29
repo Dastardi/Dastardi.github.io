@@ -95,6 +95,10 @@
   {% endfor %}
 {% endif %}
 
+{% if include.type == "page" %}
+  <a href="your_resume_url_here.pdf" target="_blank">Resume</a>
+{% endif %}
+
 </header>
 
 {% else %}
