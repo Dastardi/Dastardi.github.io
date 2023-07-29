@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: All the detail you're looking for
+subtitle: All the details you're looking for
 ---
 
 ### Who am I?
