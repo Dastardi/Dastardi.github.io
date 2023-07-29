@@ -3,8 +3,14 @@ layout: page
 title: Hey, I'm Luke
 subtitle: Programmer / Adventurer / Musician
 cover-img:
-  - "/assets/img/big-imgs/steponme.jpg" : "Distilled Harmony Retreat, 2023"
-  - "/assets/img/big-imgs/CastleLuke.JPG" : "Cork Castle, 2022"
-  - "/assets/img/big-imgs/squirtlegang.png" : "Me and the Boys, 2012"
+  #- "/assets/img/big-imgs/athens.jpg" : ""
+  #- "/assets/img/big-imgs/castle.jpg" : ""
+  #- "/assets/img/big-imgs/bench.jpg" : ""
+  - "/assets/img/big-imgs/boys.jpg" : ""
+  #- "/assets/img/big-imgs/cliffs.jpg" : ""
+  #- "/assets/img/big-imgs/hike.jpg" : ""
+  #- "/assets/img/big-imgs/skis.jpg" : ""
 ---
 
+## Text Down Here
+Got a bunch of text :D

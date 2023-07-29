@@ -23,7 +23,7 @@ navbar-links:
   Projects: "projects"
   About: "aboutme"
   Contact: "contact"
-  Resume: "/files/resume.png"
+  Resume: "resume"
 
 ################
 # --- Logo --- #
