@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Resume
-subtitle: Career and education highlights
+subtitle: Some career and education highlights
 ---
 
 ***
@@ -12,15 +12,15 @@ subtitle: Career and education highlights
     </p>
   </div>
 
-<!-- <img src="/assets/img/outsidellms.png" align="right" width="250" height="200">
+<img src="/assets/img/outsidellms.png" align="right" width="275" height="210">
 
 <div style="text-align: left;">
     <p>
-      <h2>OutsideLLMs</h2> 
-      <b><i>Volunteer</i></b><br>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      <h2>OutsideLLMs Hackathon</h2> 
+      <b>August 2023</b> <br> <b><i>Volunteer</i></b><br>
+        Ran location services and developer relations for a 250-person Music X AI hackathon as a volunteer. Wrote guides, moderated a discord server, and helped with on-site operations. 
     </p>
-  </div><br> -->
+  </div><br>
 
 <img src="/assets/img/bitf.png" align="left" width="300" height="225">
 
@@ -65,10 +65,10 @@ subtitle: Career and education highlights
   <div style="text-align: left;">
     <p>
       <h2>Northeastern University</h2>
-      <b><i>BS in Computer Science and Philosophy</i></b><br>
+      <b><i>Honors, BS in Computer Science and Philosophy</i></b><br>
         <i>Activities:</i> A Cappella, Ultimate Frisbee, Rossetti Research Group
         <i>Focused Classes:</i> Advanced Logic, Data Science, OOD <br>
-        <i>Fun Fact:</i> Studied in Dublin my first semester of freshman year
+        <i>Fun Fact:</i> I studied aborad in Ireland in my first semester of college!
     </p>
   </div><br>
 
@@ -80,6 +80,6 @@ subtitle: Career and education highlights
       <b><i>Psychology, Statistics, Performing Arts</i></b><br>
         <i>Activities:</i> FIRST Robotics, Performing Arts, Tennis, Peer Counselling
         <i>Focused Classes:</i> AP Psychology, AP Euro History, Statistics<br>
-        <i>Fun Fact:</i> I started Priory's peer support program as a senior project
+        <i>Fun Fact:</i> I started Priory's peer support program as a senior project!
     </p>
   </div><br>
