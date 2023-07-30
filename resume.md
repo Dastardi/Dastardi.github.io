@@ -18,7 +18,7 @@ subtitle: Some career and education highlights
     <p>
       <h2>OutsideLLMs Hackathon</h2> 
       <b>August 2023</b> <br> <b><i>Volunteer</i></b><br>
-        Ran location services and developer relations for a 250-person Music X AI hackathon as a volunteer. Wrote guides, moderated a discord server, and helped with on-site operations. 
+        Ran location services and developer relations for a 250-person Music X AI hackathon. Wrote guides, moderated a discord server, and helped with on-site operations. 
     </p>
   </div><br>
 
