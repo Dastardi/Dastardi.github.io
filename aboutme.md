@@ -16,6 +16,6 @@ Outside of school I have multiple years of experience in early-stage venture cap
 I also have experience programming in Unity, making and editing music with Logic Pro, and working as a prompt engineer. I love to learn, and find that expanding my tech toolbox is always worthwhile. 
 
 ### Where can you find me?
-I grew up in Palo Alto, California, but at the moment I'm living and studying in Boston and spending most of my breaks and summers back in the Bay. That being said, though, I never really know where I'll find myself next!
+I grew up in Palo Alto, California, but at the moment I'm living and studying in Boston and just spending my breaks and summers back in the Bay. That being said, though, I never really know where I'll find myself next!
 
 Online, I can be found at any of the links below - LinkedIn and Instagram are my primary pathways into the world wide web. I keep up with my email pretty consistently, so if you're looking to get in touch, that's the place to do it!

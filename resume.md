@@ -79,7 +79,7 @@ subtitle: Some career and education highlights
       <h2>Woodside Priory School</h2>
       <b><i>Psychology, Statistics, Performing Arts</i></b><br>
         <i>Activities:</i> FIRST Robotics, Performing Arts, Tennis, Peer Counselling
-        <i>Focused Classes:</i> AP Psychology, AP Euro History, Statistics<br>
+        <i>Focused Classes:</i> AP Psychology, AP European History, Statistics<br>
         <i>Fun Fact:</i> I started Priory's peer support program as a senior project!
     </p>
   </div><br>
