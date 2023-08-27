@@ -13,7 +13,7 @@ subtitle: Skeul
       <b><i>Honors, BS in Computer Science and Philosophy</i></b><br>
         <i>Activities:</i> A Cappella, Ultimate Frisbee, Rossetti Research Group
         <i>Focused Classes:</i> Advanced Logic, Data Science, OOD <br>
-        <i>Fun Fact:</i> I studied aborad in Ireland in my first semester of college!
+        <i>Fun Fact:</i> I studied abroad in Ireland in my first semester of college!
     </p>
   </div><br>
 

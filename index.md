@@ -20,3 +20,8 @@ I also have experience programming in Unity, making and editing music with Logic
 I grew up in Palo Alto, California, but at the moment I'm living and studying in Boston and just spending my breaks and summers back in the Bay. That being said, though, I never really know where I'll find myself next!
 
 Online, I can be found at any of the links below - LinkedIn and Instagram are my primary pathways into the world wide web. I keep up with my email pretty consistently, so if you're looking to get in touch, that's the place to do it!
+
+### Extra Text
+I'm currently studying computer science and philosophy but have spent time in economics, psychology, game theory, and music - a hobby of mine is picking up lifetime skills, and what better place to do so than college? In my spare time I sing, play sports, travel, and work on my many [side quests](/projects).
+
+Professionally, I've developed a habit of finding interesting early-stage companies and joining them in various capacities. In the last two years I've joined [LearnPrompting](https://learnprompting.org/) as a content creator and became one of six founding advisors, managed projects and community development for [Boom Capital](https://www.boomcap.co/), ran hackathons and marketing with [Doppler](https://doppler.page/), and interfaced with all sorts of people in the tech world during my summers in San Francisco. 
