@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Career Highlights
-subtitle: Some of the cooler things I've done profesionally
+title: Work History
+subtitle: Highlights of my professional career
 ---
 
 ***
 
-<img src="/assets/img/outsidellms.png" align="right" width="275" height="210">
+<a href="/pages/ollms"><img src="/assets/img/outsidellms.png" align="right" width="275" height="210"></a>
 
 <div style="text-align: left;">
     <p>
@@ -22,7 +22,7 @@ subtitle: Some of the cooler things I've done profesionally
     <p>
       <h2>Boom Capital Ventures</h2>
       <b>May 2022 - August 2023</b> <br> <b><i>Research Intern</i></b><br>
-      Spent two consecutive summers interning at a small deep tech-focused VD firm. Created market maps, attended company pitches, and managed multiple projects creating resources for the firm. 
+      Spent two consecutive summers interning at a small deep tech-focused venture capital firm. Developed deal sourcing initiatives for the firm, attended pitch meetings, and traveled with the general partner.
     </p>
   </div><br>
 
@@ -32,7 +32,7 @@ subtitle: Some of the cooler things I've done profesionally
     <p>
       <h2>LearnPrompting</h2>
       <b>January 2023 - May 2023</b> <br> <b><i>Contributor/Moderator</i></b><br>
-      Was one of the eight original moderators and content creators for the LearnPrompting community, a free online learning resource for prompt engineers. Created prompts, wrote articles, and innovated with the founders. 
+      Was one of the eight original moderators and content creators for the LearnPrompting community, a free online learning resource for prompt engineers. Created prompts, wrote articles, and innovated with the founders to create a 40,000 person community. 
     </p>
   </div><br>
 
@@ -42,7 +42,7 @@ subtitle: Some of the cooler things I've done profesionally
     <p>
       <h2>Northeastern University</h2>
       <b><i>January 2023 - May 2023 <br> Teaching Assistant</i></b><br>
-      Was selected as one of two TAs for Intro to Logic, a 200+ person class taught by the philosophy department head. Graded assignments, held office hours, and led study sessions for students. 
+      Was selected by the philosophy department head as one of two TAs for Intro to Logic, his 200+ person class. Graded assignments, held office hours, and led study sessions for students. 
     </p>
   </div><br>
 

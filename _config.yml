@@ -12,7 +12,7 @@ navbar-links:
   Home: "index"
   Education: "edu"
   Career: "career"
-  Personal: "personal"
+  Projects: "projects"
   Index2: "index2"
 
 ################
@@ -21,14 +21,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: /assets/img/avatar-icon.png
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/favicon.png
 
 
 #####################################
@@ -41,36 +41,32 @@ round-avatar: true
 social-network-links:
   email: "lukescurrier@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+#  facebook: 
   github: dastardi
   twitter: lukescurrier
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
+#  patreon: 
+#  youtube: 
+#  medium: 
+#  reddit: 
   linkedin: lucas-saltonstall-currier
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+#  xing: 
+#  stackoverflow: 
+#  snapchat: 
   instagram: currier_luke
-#  spotify: yourname
+#  spotify: 
 #  telephone: +16507395542
 #  steam: Dastardi
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+#  twitch: 
+#  yelp: 
+#  telegram: 
+#  calendly: 
+#  mastodon: 
+#  google-scholar: 
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Details of a future legend
 
 ###########################
 # --- General options --- #
@@ -136,7 +132,7 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#738573"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:

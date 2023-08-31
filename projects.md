@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Projects
+title: Side Projects
 subtitle: What's been keeping me up at night
 ---
 
