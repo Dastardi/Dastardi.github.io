@@ -1,17 +1,14 @@
 ---
 layout: page
-title: Hey, I'm Luke
-subtitle: Programmer / Adventurer / Musician
+title: Hey, I'm Luke!
+share-title: Home
+subtitle: And you've come to the right place.
 cover-img:
   - "/assets/img/big-imgs/boys.jpg" : ""
 ---
 ### Who am I?
-I'm a 20-year old computer science and philosophy student at Northeastern University. When I'm not studying or working I write music, play frisbee, and read just about anything I can get my hands on. I love to travel, and take every opportunity I can to go somewhere new!
+I'm a 20-year old junior at Northeastern University with a love for interesting technologies.
 
+My current academic focus is computer science and philosophy, but I've spent time in economics, psychology, and game theory. Professionally, I've worked in venture capital and at startups making market maps, running events, undertaking research projects, attending pitch meetings, and more.
 
-### What do I do?
-My academic focus is in advanced logic, game theory, and machine learning. I'm experienced with Python and Java, and know how to effectively use frameworks such as PyTorch for AI applications. I have hands-on experience writing technical reports, business briefings, and research papers. 
-
-Outside of school I have multiple years of experience in early-stage venture capital, and I'm an experienced project manager and people wrangler. I love to both attend and run hackathons and conferences such as OutsideLLMs in San Francisco and Harvard Business School's annual VC/PE conference. 
-
-I also have experience programming in Unity, making and editing music with Logic Pro, and working as a prompt engineer. I love to learn, and find that expanding my toolbox is always worthwhile. 
+Raised in Palo Alto as the oldest of four boys, I'm someone with a high level of independence and an eye for excellence. I believe there's little point in working towards a goal if you're not giving it your full effort, and bring that spirit to everything I do. 

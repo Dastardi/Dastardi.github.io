@@ -12,8 +12,7 @@ navbar-links:
   Home: "index"
   Education: "edu"
   Career: "career"
-  Projects: "projects"
-  Index2: "index2"
+  Quests: "projects"
 
 ################
 # --- Logo --- #
@@ -28,7 +27,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/favicon.png
+title-img: /assets/img/neuimage2.jpeg
 
 
 #####################################
