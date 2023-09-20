@@ -12,7 +12,7 @@ navbar-links:
   Home: "index"
   Education: "edu"
   Career: "career"
-  Quests: "projects"
+  # Quests: "projects"
 
 ################
 # --- Logo --- #
