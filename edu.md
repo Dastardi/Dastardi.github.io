@@ -19,7 +19,7 @@ subtitle: My academic journey so far
 
 ***
 
-<a href="/pages/wps"><img src="/assets/img/priorycircle.jpeg" align="left" width="140" height="140"></a>
+<a href="/pages/wps"><img src="/assets/img/oraetlabora.jpeg" align="left" width="140" height="140"></a>
 
   <div style="text-align: right;">
     <p>

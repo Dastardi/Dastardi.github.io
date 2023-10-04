@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Travel
-subtitle: Learning about the world one step at a time
+title: My Music
+subtitle: An entire harmonic world to explore
 ---
 Page is currently being constructed! Check back in soon :)

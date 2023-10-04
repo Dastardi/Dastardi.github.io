@@ -1,48 +1,77 @@
 ---
 layout: page
-title: Side Projects
-subtitle: What's been keeping me up at night
+title: Exploration Hub
+subtitle: Curious about me? Here's everything in one place!
 ---
 
 ***
 
-<a href="/pages/invest"><img src="/assets/img/outsidellms.png" align="right" width="275" height="210"></a>
+<div style="text-align: left;">
+    <p>
+      <a href="/pages/boom"><h2>Boom Capital Ventures</h2></a>
+        The story of a conversation that led to business trips, research, and two years of work at one of the most interesting venture capital firms in Silicon Valley. 
+    </p>
+  </div>
+
+***
 
 <div style="text-align: left;">
     <p>
-      <a href="/pages/invest"><h2>Investing</h2></a>
-        It all started with an early lesson about the power of compunding interest that made me fall in love with the game of investing, leading me to what is now one of my favorite hobbies.
+      <a href="/pages/ollms"><h2>OutsideLLMs Hackathon</h2></a>
+        A music meets generative AI hackathon, conceptualized by music industry leaders and startup founders and executed on by yours truly. Who knew that following up on an email could turn into an invitation to the largest independent music festival in the US?
     </p>
-  </div><br>
+  </div>
 
 ***
 
-<a href="/pages/coding"><img src="/assets/img/bitf.png" align="left" width="300" height="225"></a>
-
-<div style="text-align: right;">
-    <p>
-      <a href="/pages/coding"><h2>Programming</h2></a>
-      Spent two consecutive summers interning at a small deep tech-focused venture capital firm. Developed deal sourcing initiatives for the firm, attended pitch meetings, and traveled with the general partner.
-    </p>
-  </div><br>
-
-***
-
-<a href="/pages/travel"><img src="/assets/img/hackaprompt.png" align="right" width="300" height="210"></a>
 <div style="text-align: left;">
     <p>
-      <a href="/pages/travel"><h2>Traveling</h2></a>
-      Was one of the eight original moderators and content creators for the LearnPrompting community, a free online learning resource for prompt engineers. Created prompts, wrote articles, and innovated with the founders to create a 40,000 person community. 
+      <a href="/pages/dtrd"><h2>Replicator Dynamics</h2></a>
+      Created a program to simulate game theoretical discrete-time replicator dynamics in Python from outdated C++ and Java code as an individual research project with a favorite professor. 
     </p>
-  </div><br>
+  </div>
 
 ***
 
-<a href="/pages/music"><img src="/assets/img/taing.jpg" align="left" width="275" height="225"></a>
-
-<div style="text-align: right;">
+<div style="text-align: left;">
     <p>
-      <a href="/pages/music"><h2>Music</h2></a>
-      Was selected by the philosophy department head as one of two TAs for Intro to Logic, his 200+ person class. Graded assignments, held office hours, and led study sessions for students. 
+      <a href="/pages/neu"><h2>Northeastern University</h2></a>
+      A (somewhat) brief overview of my college experience thus far. I discuss my classes, choice of major, experiences abroad, extensive list of extracurriculars, and more!
     </p>
-  </div><br>
+  </div>
+
+***
+
+<div style="text-align: left;">
+    <p>
+      <a href="/pages/travel"><h2>Woodside Priory</h2></a>
+      Highlights from my experience at a Benedictine Catholic boarding school in the woods. Prepare yourself for robots, tennis, and an exploration of the psyche of high schoolers. 
+    </p>
+  </div>
+
+***
+
+<div style="text-align: left;">
+    <p>
+      <a href="/pages/writingmusic"><h2>My Music</h2></a>
+      When I'm not talking to people or working (and sometimes even then) I can generally be found listening to music of all kinds. It's a unique art form and one of life's great pleasures, so I figure why not create some of my own?
+    </p>
+  </div>
+
+  ***
+
+  <div style="text-align: left;">
+    <p>
+      <a href="/pages/writingmusic"><h2>Learn Prompting</h2></a>
+      Joining a discord server in January and sending a few short messages resulted in one of the most interesting online experiences of my life, in which I helped conceptualize and lead what is now a 40,000 person nonprofit dedicated to teaching people about AI. 
+    </p>
+  </div>
+
+***
+
+  <div style="text-align: left;">
+    <p>
+      <a href="/pages/peercounsel"><h2>Peer Counselling</h2></a>
+      My high school senior project, in which I worked with professionals and friends to create a student support group and mental health initiative for the school. 
+    </p>
+  </div>
