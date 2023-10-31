@@ -62,7 +62,7 @@ subtitle: Curious about me? Here's everything in one place!
 
   <div style="text-align: left;">
     <p>
-      <a href="/pages/writingmusic"><h2>Learn Prompting</h2></a>
+      <a href="/pages/lp"><h2>Learn Prompting</h2></a>
       Joining a discord server in January and sending a few short messages resulted in one of the most interesting online experiences of my life, in which I helped conceptualize and lead what is now a 40,000 person nonprofit dedicated to teaching people about AI. 
     </p>
   </div>
@@ -73,5 +73,14 @@ subtitle: Curious about me? Here's everything in one place!
     <p>
       <a href="/pages/peercounsel"><h2>Peer Counselling</h2></a>
       My high school senior project, in which I worked with professionals and friends to create a student support group and mental health initiative for the school. 
+    </p>
+  </div>
+
+***
+
+  <div style="text-align: left;">
+    <p>
+      <a href="/pages/ta"><h2>Teaching Logic</h2></a>
+      In the spring semester of my sophomore year, I was a teaching assistant for Introduction to Logic, one of the largest (and most difficult) introductory philosophy classes at Northeastern. 
     </p>
   </div>
