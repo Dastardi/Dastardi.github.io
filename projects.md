@@ -43,8 +43,17 @@ subtitle: Curious about me? Here's everything in one place!
 ***
 
 <div style="text-align: left;">
+  <p>
+    <a href="/pages/dh"><h2>Distilled Harmony</h2></a>
+    As the bass of one of the the coolest a cappella groups in Boston, I sing multiple times per week and compete against colleges in the northeast with some of my best friends. 
+  </p>
+</div>
+
+***
+
+<div style="text-align: left;">
     <p>
-      <a href="/pages/travel"><h2>Woodside Priory</h2></a>
+      <a href="/pages/wps"><h2>Woodside Priory</h2></a>
       Highlights from my experience at a Benedictine Catholic boarding school in the woods. Prepare yourself for robots, tennis, and an exploration of the psyche of high schoolers. 
     </p>
   </div>
@@ -54,7 +63,7 @@ subtitle: Curious about me? Here's everything in one place!
 <div style="text-align: left;">
     <p>
       <a href="/pages/writingmusic"><h2>My Music</h2></a>
-      When I'm not talking to people or working (and sometimes even then) I can generally be found listening to music of all kinds. It's a unique art form and one of life's great pleasures, so I figure why not create some of my own?
+      When my ears aren't otherwise engaged, I can generally be found listening to music of all kinds. It's a unique art form and one of life's great pleasures, so I figure why not create some of my own?
     </p>
   </div>
 
@@ -63,7 +72,7 @@ subtitle: Curious about me? Here's everything in one place!
   <div style="text-align: left;">
     <p>
       <a href="/pages/lp"><h2>Learn Prompting</h2></a>
-      Joining a discord server in January and sending a few short messages resulted in one of the most interesting online experiences of my life, in which I helped conceptualize and lead what is now a 40,000 person nonprofit dedicated to teaching people about AI. 
+      Joining a discord server in January and sending a few short messages resulted in one of my most interesting experiences to date, in which I helped conceptualize and lead what is now a 40,000 person nonprofit dedicated to teaching people about AI. 
     </p>
   </div>
 
@@ -84,3 +93,23 @@ subtitle: Curious about me? Here's everything in one place!
       In the spring semester of my sophomore year, I was a teaching assistant for Introduction to Logic, one of the largest (and most difficult) introductory philosophy classes at Northeastern. 
     </p>
   </div>
+
+***
+
+  <div style="text-align: left;">
+    <p>
+      <a href="/pages/rossetti"><h2>Rossetti Research</h2></a>
+      My time in a multidisciplinary weekly reading group that provides access to research and project support, as well as an amazing community of hands-on philosophers. 
+    </p>
+  </div>
+
+<!--  
+***
+
+<div style="text-align: left;">
+  <p>
+    <a href="/pages/travel"><h2>My Travels</h2></a>
+    I love to explore new places, and records of some of my more recent adventures are held here!
+  </p>
+</div>
+-->

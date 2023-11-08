@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Woodside Priory 
-subtitle: A non-traditional traditional high school
+subtitle: A traditionally non-traditional high school
 ---
-Page is currently being constructed! Check back in soon :)
+**Academics**: <br>
+I was accepted as an Early Decision applicant to <a href="/pages/neu/">Northeastern University</a>
+
+**Projects**: <br>
+
+
+**Extracurriculars**: <br>
