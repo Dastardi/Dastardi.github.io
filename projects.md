@@ -26,6 +26,15 @@ subtitle: Curious about me? Here's everything in one place!
 
 <div style="text-align: left;">
     <p>
+      <a href="/pages/ambassadors"><h2>Husky Ambassadors</h2></a>
+        My experience being a tour guide and student body leader at Northeastern as part of one of the most important groups on campus. 
+    </p>
+  </div>
+
+***
+
+<div style="text-align: left;">
+    <p>
       <a href="/pages/dtrd"><h2>Replicator Dynamics</h2></a>
       Created a program to simulate game theoretical discrete-time replicator dynamics in Python from outdated C++ and Java code as an individual research project with a favorite professor. 
     </p>
