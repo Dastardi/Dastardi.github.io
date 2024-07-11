@@ -10,7 +10,7 @@ subtitle: Highlights of my professional career
 
 <div style="text-align: right;">
     <p>
-      <a href="/pages/boom"><h2>Wayfair</h2></a>
+      <a href="/pages/wayfair"><h2>Wayfair</h2></a>
       <b>January 2024 - June 2024</b> <br> <b><i>Marketing Analyst Co-op</i></b><br>
       In a 3-person team, managed Wayfair's biggest paid search channel (Google PLA) with over $1M of ad spend and $5M+ revenue each day. Used Google Ads, Analytics, and Search Console to conduct various projects and led a project with a stealth startup working to integrate AI into our databases. 
     </p>
