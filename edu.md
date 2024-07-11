@@ -11,8 +11,8 @@ subtitle: My academic journey so far
     <p>
       <a href="/pages/neu"><h2>Northeastern University</h2></a>
       <b><i>Honors, BS in Computer Science and Philosophy</i></b><br>
-        <i>Activities:</i> A Cappella, Ultimate Frisbee, Rossetti Research Group
-        <i>Focused Classes:</i> Advanced Logic, Data Science, OOD <br>
+        <i>Activities:</i> A Cappella, Ultimate Frisbee, Husky Ambassadors, Rossetti Research Group
+        <i>Focused Classes:</i> Advanced Logic, Data Science, Theory of Software Eng., OOD <br>
         <i>Fun Fact:</i> I studied abroad in Ireland in my first semester of college!
     </p>
   </div>
