@@ -54,7 +54,7 @@ subtitle: Highlights of my professional career
 
 ***
 
-<a href="/pages/ta"><img src="/assets/img/luxveritasvirtus.png" align="left" width="250" height="250"></a>
+<a href="/pages/ta"><img src="/assets/img/neucircle.png" align="left" width="250" height="250"></a>
 
 <div style="text-align: right;">
     <p>
