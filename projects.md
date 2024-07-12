@@ -71,7 +71,7 @@ subtitle: Curious about me? Here's everything in one place!
 
 <div style="text-align: left;">
     <p>
-      <a href="/pages/writingmusic"><h2>My Music</h2></a>
+      <a href="/pages/writingmusic"><h2>Music</h2></a>
       When my ears aren't otherwise engaged, I can generally be found listening to music of all kinds. It's a unique art form and one of life's great pleasures, so I figure why not create some of my own?
     </p>
   </div>
