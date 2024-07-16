@@ -21,5 +21,8 @@ title: PDF Store
 
 <a href="/assets/files/skyrms.pdf" target=None>Skyrms Ch.1 Sex and Justice</a><br>
 
+<a href="/assets/files/pyreview.pdf" target=None>Python Review</a><br>
+
+
 
 
