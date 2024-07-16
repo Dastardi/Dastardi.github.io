@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PDF Store
+title: PDF Storage
 ---
 
 <a href="/assets/files/resume.pdf" target=None>Resume</a><br>
