@@ -4,11 +4,13 @@ title: Northeastern University
 subtitle: A college experience nothing short of incredible
 ---
 **Academics**: <br>
-I was accepted as an Early Decision applicant from <a href="/pages/wps/">Woodside Priory</a> to study Psychology as part of the class of 2025. In my first semester, I studied abroad in Dublin with the N.U.in program, learning about psych, music, and philosophy. Upon returning to Boston in the spring I switched my major to Business in a search to learn about the world in new ways. 
+I was accepted as an Early Decision applicant from <a href="/pages/wps/">Woodside Priory</a> to study Psychology as part of the class of 2025. In my first semester, I studied abroad in Dublin at UCD, learning about psych, music, and philosophy. Upon returning to Boston in the spring I switched my major to Business in a search to learn about the world in new ways. 
 
-Having been raised in Palo Alto by one <a href=https://www.nfx.com/team/james-currier>hell of a father</a>, though, I found that most of what I was learning felt superficial and decided to focus on a skill - the most important skill for the modern day, in my opinion, is Computer Science. After falling in love with logic, though, and driven by a desire to continue learning about people and the world, I added Philsophy to create a dual major inspired by <a href=https://symsys.stanford.edu>Stanford's Symbolic Systems program</a>. 
+Having been raised in Palo Alto by one <a href="https://www.nfx.com/team/james-currier">hell of a father</a>, though, I found that most of what I was learning felt superficial and decided to focus on a skill - the most important skill for the modern day, in my opinion, is Computer Science. After falling in love with logic, though, and driven by a desire to continue learning about people and the world, I added Philsophy to create a dual major inspired by <a href="https://symsys.stanford.edu">Stanford's Symbolic Systems program</a>. 
 
-Since then, I've been delightedly learning about object-oriented design, algorithms for machine learning, software engineering, and all sorts of other fun topics. As a member of the <a href=https://honorsprogram.sites.northeastern.edu>honors program</a> I've also enjoyed the opportunity to take seminars and classes designed to spark my interest in all sorts of topics, such as debating. 
+Since then, I've been delightedly learning about object-oriented design, algorithms for machine learning, software engineering, and all sorts of other fun topics. As a member of the <a href="https://honorsprogram.sites.northeastern.edu">honors program</a> I've also enjoyed the opportunity to take seminars and classes designed to spark my interest in all sorts of topics, such as debating. 
+
+In the summer of 2024, I did a second study abroad at UTS in Sydney, Australia, working on software engineering and AI training. 
 
 I plan to be a lifelong learner, and Northeastern's flexible academics have given me an incredible springboard to do just that. 
 
