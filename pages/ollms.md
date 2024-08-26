@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OutsideLLMS
-subtitle: A swift and sudden hackathon takeover
+subtitle: A swift and sudden hackathon construction
 ---
 OutsideLLMs was a music-meets-generative-AI hackathon partnering with OutsideLands, the biggest private music festival in the US, slated to be run in mid-August of 2023 when I signed up as a volunteer to help run the venue. After sending a couple extra emails I got a message from the organizer, a leader at Cerebral Valley, who asked that I do some extra administrative work about a week before the event.
 

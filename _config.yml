@@ -11,8 +11,8 @@ author: Luke Currier
 navbar-links:
   Home: "index"
   Education: "edu"
-  Career: "career"
-  Explore: "projects"
+  Professional: "professional"
+  Personal: "personal"
   Resume: "assets/files/resume.pdf"
 
 ################

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Music
-subtitle: Exploring the harmonic world
+title: Wayfair
+subtitle: Corporate data science at its finest
 ---
 Page is currently being constructed! Check back in soon :)

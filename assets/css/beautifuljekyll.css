@@ -109,6 +109,15 @@ img {
   margin-top: -1.5625rem;
 }
 
+.favorite-list {
+  margin-top: 10px; /* Adjusts the space between the title and the list */
+  line-height: 1.5; /* Adjusts the space between each item */
+}
+
+.favorite-list li {
+  margin-bottom: 5px; /* Adjusts the space between each list item */
+}
+
 /* Comments */
 
 .disqus-comments {

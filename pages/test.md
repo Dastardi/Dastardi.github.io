@@ -19,7 +19,7 @@ In my free time I read sci-fi novels, make music, and play ultimate frisbee and 
 <div class="favorite-list">
   <span>Some favorites of mine:</span><br>
   <span>- YouTubers: <a href="https://www.youtube.com/c/SebastianLague" target=_blank>Sebastian Lague</a>, <a href="https://www.youtube.com/@xkcd_whatif" target=_blank>xkcd's What If?</a>, <a href="https://www.youtube.com/@CharlesCornellStudios" target=_blank>Charles Cornell</a>, <a href="https://www.youtube.com/@veritasium" target=_blank>Veritasium</a></span><br>
-  <span>- Books: The Hitchhiker's Guide to the Galaxy, Dune</span><br>
+  <span>- Books: Hitchhiker's Guide to the Galaxy, Dune</span><br>
   <span>- Music: Jacob Collier, The Beatles</span><br>
   <span>- Films: Interstellar, Inception</span>
 </div>
