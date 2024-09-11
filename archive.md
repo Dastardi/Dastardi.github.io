@@ -7,6 +7,8 @@ title: PDF Storage
 
 <a href="/assets/files/alteredtraits.pdf" target=None>Altered Traits</a><br>
 
+<a href="/assets/files/introalgo.pdf" target=None>Intro to Algorithms</a><br>
+
 <a href="/assets/files/sitaware.pdf" target=None>Situational Awareness</a><br>
 
 <a href="/assets/files/mml.pdf" target=None>Mathematics of Machine Learning</a><br>
