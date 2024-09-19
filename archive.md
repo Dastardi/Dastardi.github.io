@@ -2,7 +2,7 @@
 layout: page
 title: PDF Storage
 ---
-<a href="/assets/files/trustai_intro_ml.pdf" target=None>ML Review (from CS 4973)</a><br>
+<a href="/assets/files/trustai_ml_intro_.pdf" target=None>ML Review (from CS 4973)</a><br>
 
 <a href="/assets/files/resume.pdf" target=None>Resume</a><br>
 
