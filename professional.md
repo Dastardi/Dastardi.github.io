@@ -36,7 +36,7 @@ subtitle: Highlights of my professional career
     <p>
       <a href="/pages/ollms"><h2>OutsideLLMs Hackathon</h2></a>
       <b>August 2023</b> <br> <b><i>Volunteer</i></b><br>
-        Ran a 250-person Music x AI hackathon in concert with <a href="https://cerebralvalley.ai/">Cerebral Valley</a>. Coordinated hundreds of developers, communicated with sponsors, and helped with on-site operations. 
+        Ran a 250-person Music x AI hackathon in concert with <a href="https://cerebralvalley.ai/" target=None>Cerebral Valley</a>. Coordinated hundreds of developers, communicated with sponsors, and helped with on-site operations. 
     </p>
   </div>
 

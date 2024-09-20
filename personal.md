@@ -33,15 +33,17 @@ subtitle: The many ways I fill my time
 
 
 ***
-
+<!-- 
 <div style="text-align: left;">
     <p>
       <a href="/pages/music"><h2>Music</h2></a>
       When my ears aren't otherwise engaged, I can generally be found listening to and creating music of all kinds.
     </p>
-  </div>
+  </div> 
 
   ***
+
+-->
 
   <div style="text-align: left;">
     <p>

@@ -12,7 +12,7 @@ Since then, I've been delightedly learning about object-oriented design, algorit
 
 In the summer of 2024, I did a second study abroad at UTS in Sydney, Australia, working on software engineering and AI training. 
 
-I plan to be a lifelong learner, and Northeastern's flexible academics have given me an incredible springboard to do just that. 
+I aspire to be a lifelong learner, and Northeastern's flexible academics have given me an incredible springboard to do just that. 
 
 **Extracurriculars**: <br>
 I'm an active guy. It's a regular tradition of mine to join as many clubs as possible at the beginning of each semester, and then keep one or two as time goes on based on my interest. I've met too many interesting people and done too many interesting things to list them all here, but some highlights are below.
@@ -29,7 +29,7 @@ There's more, but I doubt you want to listen to me ramble on about them, so ask 
 **Projects**: <br>
 Side projects make the world go 'round! The two I'd call out as my largest ones are my <a href="/pages/dtrd.md">replicator dynamics research</a> with Rory Smead and my time spent working on <a href="/pages/lp.md">LearnPrompting</a>. 
 
-Since taking DS3000, though, I've had a love for creating little apps in python and messing around with machine learning and spreadsheets. I built a program to record, transcribe, and summarize lectures for easy note-taking, created a detailed and fully automated spreadsheet to track my <a href="/pages/invest.md">finances</a>, and made this site!
+Since taking DS3000, though, I've had a love for creating little apps in python and messing around with machine learning and spreadsheets. I built a program to record, transcribe, and summarize lectures for easy note-taking, created a detailed and fully automated spreadsheet to track my finances, and made this site!
 
 Outside of programming, I love making music, and have been working on something fun outside of my normal activities with a cappella - hopefully, more on that soon. 
 

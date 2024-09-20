@@ -23,7 +23,7 @@ subtitle: My academic journey so far
 
   <div style="text-align: right;">
     <p>
-      <a href="/pages/neu"><h2>University of Technology Sydney</h2></a>
+      <a href="/pages/uts"><h2>University of Technology Sydney</h2></a>
       <b><i>Software Engineering Study Abroad</i></b><br>
       <i>Taken in Summer 2024</i><br>
       <i>Focused Classes:</i> Software Engineering, <a href="/pages/forex">AI/ML Directed Study</a> <br>
@@ -36,7 +36,7 @@ subtitle: My academic journey so far
 
   <div style="text-align: left;">
     <p>
-      <a href="/pages/neu"><h2>University College Dublin</h2></a>
+      <a href="/pages/ucd"><h2>University College Dublin</h2></a>
       <b><i>General Education Study Abroad</i></b><br>
       <i>Taken in Fall 2024</i><br>
       <i>Focused Classes:</i> Irish Folklore, Foundational First-Year Courses <br>
