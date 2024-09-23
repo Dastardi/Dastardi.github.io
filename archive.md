@@ -4,7 +4,13 @@ title: PDF Storage
 ---
 <a href="/assets/files/resume.pdf" target=None>Resume</a><br>
 
-<a href="/assets/files/trustai_ml_intro_.pdf" target=None>ML Review (from CS 4973)</a><br>
+<a href="/assets/files/daodejing-hansen.pdf" target=None>Dao de Jing - Hansen Translation</a><br>
+
+<a href="/assets/files/daodejing-henricks.pdf" target=None>Dao de Jing - Henricks Translation</a><br>
+
+<a href="/assets/files/daodejing-ivanhoe.pdf" target=None>Dao de Jing - Ivanhoe Translation</a><br>
+
+<a href="/assets/files/trustai-ml-intro.pdf" target=None>ML Review (from CS 4973)</a><br>
 
 <a href="/assets/files/alteredtraits.pdf" target=None>Altered Traits</a><br>
 
